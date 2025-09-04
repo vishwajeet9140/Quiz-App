@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which data structure is used for implementing recursion?",
+      "options": ["Queue", "Stack", "Linked List", "Heap"],
+      "correctAnswer": "Stack",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "What is the time complexity of searching in a balanced binary search tree (BST)?",
+      "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+      "correctAnswer": "O(log n)",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a type of database key?",
+      "options": ["Primary Key", "Foreign Key", "Candidate Key", "Virtual Key"],
+      "correctAnswer": "Virtual Key",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Which normal form eliminates transitive dependency in DBMS?",
+      "options": ["1NF", "2NF", "3NF", "BCNF"],
+      "correctAnswer": "3NF",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "Which OOP concept refers to binding data and functions together?",
+      "options": ["Inheritance", "Polymorphism", "Encapsulation", "Abstraction"],
+      "correctAnswer": "Encapsulation",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Which principle allows using the same function name with different parameters in OOP?",
+      "options": ["Encapsulation", "Overloading", "Overriding", "Abstraction"],
+      "correctAnswer": "Overloading",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Which data structure provides the best performance for priority scheduling?",
+      "options": ["Stack", "Queue", "Heap", "Linked List"],
+      "correctAnswer": "Heap",
+      "difficulty": "hard"
+    },
+    {
+      "id": 8,
+      "question": "In SQL, which command is used to remove a table completely along with its data?",
+      "options": ["DELETE", "REMOVE", "DROP", "TRUNCATE"],
+      "correctAnswer": "DROP",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "Which traversal method is used in Depth First Search (DFS)?",
+      "options": ["Queue", "Stack", "Heap", "Priority Queue"],
+      "correctAnswer": "Stack",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "Which OOP concept is achieved when a subclass provides a specific implementation of a method already defined in its superclass?",
+      "options": ["Overloading", "Overriding", "Abstraction", "Encapsulation"],
+      "correctAnswer": "Overriding",
+      "difficulty": "hard"
+    }
+  ]
+}
