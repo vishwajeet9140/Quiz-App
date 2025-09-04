@@ -15,7 +15,7 @@ npm run build
 4. Deploy to GitHub Pages
 npm run deploy
 
-Live at:[[ https://rajveersingh086.github.io/quiz-app/](https://quiz-app-pearl-nu.vercel.app/](https://quiz-app-git-main-vishwajeet-yadavs-projects-70235cf2.vercel.app?_vercel_share=iRkOrwoO1ONxYIeoFQbZNW9VAHdbFG6R))
+Live at:[(https://quiz-app-pearl-nu.vercel.app/](https://quiz-app-git-main-vishwajeet-yadavs-projects-70235cf2.vercel.app?_vercel_share=iRkOrwoO1ONxYIeoFQbZNW9VAHdbFG6R))
 
 QUICK START 
 git clone <your-repo-url>
